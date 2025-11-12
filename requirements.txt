@@ -1,3 +1,9 @@
+flask
+torch
+diffusers
+transformers
+accelerate
+safetensors
+pillow
 python-telegram-bot==20.7
 requests
-Pillow
